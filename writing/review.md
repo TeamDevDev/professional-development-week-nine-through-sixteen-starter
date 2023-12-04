@@ -148,7 +148,7 @@ to publish on the Developer Development web site. Please note that it is not
 expected that you provide a reference to more than three articles. With that
 said, by the end of the academic semester it is expected that every student in
 the course will make a contribution to at least three articles about
-professional developer. If you contributed to more than three articles, please
+professional development. If you contributed to more than three articles, please
 make sure that you reference them in the following list.
 
 - I Contributed to an Article at this URL:
