@@ -30,7 +30,7 @@ TODO: Please create a filled checkbox for each professional development task tha
 
 - [] Installed and correctly configured Quarto on your laptop
 - [] Created and maintained a Quarto-based web site that is deployed to Netlify
-- [] Across the entire semester, wrote a total of at least three articles about professional development
+- [] Across the entire semester, co-authored a total of at least three executive summaries about professional development
 - [] Created a GitHub issue of your partner's web site for all professional development précis articles
 - [] Contributed to at least three executive summaries about professional development on the course web site
 - [] Regularly participated in the class discussions about professional development
