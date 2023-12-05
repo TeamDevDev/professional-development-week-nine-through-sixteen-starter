@@ -155,8 +155,9 @@ summaries, please make sure that you reference them in the following list.
 - I Contributed to an Executive Summary at this URL:
 - I Contributed to an Executive Summary at this URL:
 
-TODO: If you did not contribute to at least three articles about professional
-development, then explain why you did not do so, providing all relevant details.
+TODO: If you did not contribute to at least three executive summaries about
+professional development, then explain why you did not do so, providing all
+relevant details.
 
 ### GitHub Commits
 
